@@ -9,13 +9,13 @@ This project investigates user churn drivers, cross-platform satisfaction rates,
 ## 📊 Executive Dashboard Preview
 
 ### 1. Executive Overview & Rating Trends
-![Executive Overview](images/P1-Overview.png)
+![Executive Overview](Images/P1-Overview.png)
 
 ### 2. Friction Points & Voice of Customer
-![Friction Points & VoC](images/P2-FrictionPoint&VoiceofCustomer.png)
+![Friction Points & VoC](Images/P2-FrictionPoint&VoiceofCustomer.png)
 
 ### 3. Key Takeaways & Strategic Recommendations
-![Key Takeaways & Strategy](images/P2-FrictionPoint&VoiceofCustomer.png)
+![Key Takeaways & Strategy](Images/P3-KeyFindings.png)
 
 ---
 
